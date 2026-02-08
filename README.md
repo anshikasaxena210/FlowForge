@@ -63,7 +63,7 @@ Sample Workflow Configuration
     }
   ]
 }
-
+---------------------------------------------------------------------------------------
 API Endpoints
 
 | Method | Endpoint | Description |
